@@ -59,7 +59,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(`Doge Unblocker running at port 8000`);
+  console.log(`education running at port 8000`);
 });
 
 server.listen({
